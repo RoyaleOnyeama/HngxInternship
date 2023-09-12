@@ -13,9 +13,9 @@ def get_info():
 
     utc_time = datetime.datetime.utcnow()
 
-    github_file_url = "https://github.com/username/repo/main/file_name.ext"
+    github_file_url = "https://github.com/RoyaleOnyeama/HngxInternship/blob/main/main.py"
 
-    github_repo_url = "https://github.com/username/repo"
+    github_repo_url = "https://github.com/RoyaleOnyeama/HngxInternship"
 
     status_code = 200
 
